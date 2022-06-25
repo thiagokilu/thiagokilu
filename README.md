@@ -1,4 +1,7 @@
 ### Olá meu nome é Thiago 👋
+Aluno na Faculdade de tecnologia e inovação Senac-DF
+<br>
+estudante de GTI👨‍💻
 
 <div align="center">
   <a href="https://github.com/thiagokilu">
