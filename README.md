@@ -1,5 +1,5 @@
 ### Olá meu nome é Thiago 👋
-Aluno na Faculdade de tecnologia e inovação Senac-DF
+Estudante da Faculdade de tecnologia e inovação Senac-DF
 <br>
 estudante de GTI👨‍💻
 
