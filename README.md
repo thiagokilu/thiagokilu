@@ -1,5 +1,9 @@
 ### Olá meu nome é Thiago 👋
 Formado em gestão de tecnologia da informação
+🚀 Web Developer em construção
+🎨 Transformo ideias em interfaces pixel-perfect.
+⚡ React, HTML, CSS, JavaScript & Tailwind
+💡 Apaixonado por design e lógica.
 <br>
 
 <div align="center">
