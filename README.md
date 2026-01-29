@@ -15,43 +15,43 @@
   </a>
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline-block">
 
 <img align="center" alt="Thiago-Figma" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
 
 <img align="center" alt="Thiago-JS" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 
 <img align="center" alt="Thiago-TS" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
 
 <img align="center" alt="Thiago-HTML" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
 
 <img align="center" alt="Thiago-CSS" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
 
 <img align="center" alt="Thiago-Tailwind" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />
 
 <img align="center" alt="Thiago-Vue" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" />
 
 <img align="center" alt="Thiago-React" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
 
 <img align="center" alt="Thiago-Next" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" />
 
 <img align="center" alt="Thiago-Git" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
 
 <img align="center" alt="Thiago-Linux" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
 
 <img align="center" alt="Thiago-Docker" height="40" width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
 
 </div>
 
