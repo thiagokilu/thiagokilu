@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 <img align="center" alt="Thiago-Figma" height="40" width="40"
 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
