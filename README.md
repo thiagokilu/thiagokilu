@@ -1,10 +1,17 @@
-### Olá, meu nome é Thiago 👋
-🎓 Formado em **Gestão de Tecnologia da Informação**  
-🚀 Web Developer 
-🎨 Transformo ideias em interfaces pixel-perfect.  
-⚡ Tecnologias:  HTML, CSS, JavaScript, Typescript, React, Vue, Next.js. 
-💡 Apaixonado por design e lógica.  
-🌎 Idiomas: Português (nativo) | Inglês (intermediário/avançado)
+## Olá, eu sou o Thiago 👋  
+
+🎓 **Graduado em Gestão de Tecnologia da Informação**  
+🚀 **Web Developer | Front-end**  
+🎨 Transformo ideias em **interfaces modernas, acessíveis e pixel-perfect**, unindo design e performance.  
+💡 Apaixonado por **UX/UI Design**, lógica e experiências digitais bem construídas.  
+
+⚡ **Tecnologias:**  
+HTML • CSS • JavaScript • TypeScript • React • Vue • Next.js • Tailwind CSS  
+
+🌎 **Idiomas:**  
+Português (nativo) | Inglês (intermediário/avançado)  
+
+📌 Estou sempre em busca de novos desafios, aprendizados constantes e oportunidades para criar soluções digitais que gerem impacto real.
 
 ---
 
@@ -14,6 +21,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokilu&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
+
+---
+
+### 🛠️ Skills & Ferramentas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="40" />
@@ -30,8 +41,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40" />
 </p>
 
-
 ---
+
+### 🌐 Vamos nos conectar?
 
 <div> 
   <a href="https://www.youtube.com/channel/UCT5OkGw6R_gZtdm_rsRA4wQ" target="_blank">
