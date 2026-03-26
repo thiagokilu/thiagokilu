@@ -2,7 +2,7 @@
 🎓 Formado em **Gestão de Tecnologia da Informação**  
 🚀 Web Developer 
 🎨 Transformo ideias em interfaces pixel-perfect.  
-⚡ Tecnologias: React, Vue,  HTML, CSS, JavaScript, Typescript & Tailwind  
+⚡ Tecnologias:  HTML, CSS, JavaScript, Typescript, React, Vue, Next.js. 
 💡 Apaixonado por design e lógica.  
 🌎 Idiomas: Português (nativo) | Inglês (intermediário/avançado)
 
