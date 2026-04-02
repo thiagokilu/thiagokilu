@@ -16,7 +16,7 @@ Português (nativo) | Inglês (intermediário/avançado)
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thiagokilu" />
+  <img src="https://metrics.lecoq.io/thiagokilu?template=classic&base=header,repositories&languages=1" />
 </div>
 
 ---
