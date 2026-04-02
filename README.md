@@ -16,10 +16,7 @@ Português (nativo) | Inglês (intermediário/avançado)
 ---
 
 <div align="center">
-  <a href="https://github.com/thiagokilu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagokilu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokilu&layout=compact&langs_count=7&theme=tokyonight" />
-  </a>
+![thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokilu&hide=contribs,prs)****
 </div>
 
 ---
