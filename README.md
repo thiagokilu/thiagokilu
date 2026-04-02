@@ -16,7 +16,7 @@ Português (nativo) | Inglês (intermediário/avançado)
 ---
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/thiagokilu?template=classic&base=header,repositories&languages=1" />
+  <img src="https://streak-stats.demolab.com?user=thiagokilu" />
 </div>
 
 ---
@@ -62,5 +62,3 @@ Português (nativo) | Inglês (intermediário/avançado)
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thiagokilu" />
