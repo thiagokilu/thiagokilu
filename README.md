@@ -1,17 +1,14 @@
-## Olá, eu sou o Thiago 👋  
+## Hi, I’m Thiago 👋
 
-🎓 **Graduado em Gestão de Tecnologia da Informação**  
-🚀 **Web Developer | Front-end**  
-🎨 Transformo ideias em **interfaces modernas, acessíveis e pixel-perfect**, unindo design e performance.  
-💡 Apaixonado por **UX/UI Design**, lógica e experiências digitais bem construídas.  
+🎓 **Bachelor’s Degree in Information Technology Management**  
+🚀 **Front-end Web Developer**  
+🎨 I turn ideas into **modern, accessible, and pixel-perfect interfaces**, combining design and performance.  
+💡 Passionate about **UX/UI Design**, logic, and well-crafted digital experiences.
 
-⚡ **Tecnologias:**  
-HTML • CSS • JavaScript • TypeScript • React • Vue • Next.js • Tailwind CSS  
+🌎 **Languages:**  
+Portuguese (Native) | English (Intermediate/Advanced)
 
-🌎 **Idiomas:**  
-Português (nativo) | Inglês (intermediário/avançado)  
-
-📌 Estou sempre em busca de novos desafios, aprendizados constantes e oportunidades para criar soluções digitais que gerem impacto real.
+📌 Always seeking new challenges, continuous learning, and opportunities to build digital solutions that create real impact.
 
 ---
 
@@ -21,7 +18,7 @@ Português (nativo) | Inglês (intermediário/avançado)
 
 ---
 
-### 🛠️ Skills & Ferramentas
+### 🛠️ Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F5F5DC?style=for-the-badge&logo=figma&logoColor=black" />
@@ -40,14 +37,14 @@ Português (nativo) | Inglês (intermediário/avançado)
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Let’s Connect
 
-<div> 
+<div align="center">
   <a href="https://www.youtube.com/channel/UCT5OkGw6R_gZtdm_rsRA4wQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://instagram.com/thiagokilu" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.twitch.tv/thiagokilulives" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
@@ -56,9 +53,9 @@ Português (nativo) | Inglês (intermediário/avançado)
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="mailto:thiagoestudante457@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/thiago-alexandre-cavalcante" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
