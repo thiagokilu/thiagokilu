@@ -16,7 +16,7 @@ Português (nativo) | Inglês (intermediário/avançado)
 ---
 
 <div align="center">
-![thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokilu&hide=contribs,prs)****
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokilu)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
