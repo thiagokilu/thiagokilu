@@ -10,13 +10,7 @@ Portuguese (Native) | English (Intermediate/Advanced)
 
 📌 Always seeking new challenges, continuous learning, and opportunities to build digital solutions that create real impact.
 
----
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thiagokilu" />
-</div>
-
----
 
 ### 💻 Skills
 
