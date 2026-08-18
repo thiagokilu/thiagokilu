@@ -6,7 +6,7 @@
 💡 Passionate about **UX/UI Design**, logic, and well-crafted digital experiences.
 
 🌎 **Languages:**  
-Portuguese (Native) | English (Intermediate/Advanced)
+Portuguese (Native) | English (Advanced)
 
 📌 Always seeking new challenges, continuous learning, and opportunities to build digital solutions that create real impact.
 
