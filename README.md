@@ -1,14 +1,14 @@
 ## Hi, I’m Thiago 👋
 
-🎓 **Bachelor’s Degree in Information Technology Management**  
-🚀 **Front-end Web Developer**  
-🎨 I turn ideas into **modern, accessible, and pixel-perfect interfaces**, combining design and performance.  
-💡 Passionate about **UX/UI Design**, logic, and well-crafted digital experiences.
+🎓 **Degree in Information Technology Management**  
+💻 **Software Developer**  
+🚀 I build **modern, accessible, and high-quality digital solutions**, combining clean code, performance, and thoughtful design.  
+💡 Passionate about **software development, UX/UI Design, problem-solving, and well-crafted digital experiences**.
 
 🌎 **Languages:**  
 Portuguese (Native) | English (Advanced)
 
-📌 Always seeking new challenges, continuous learning, and opportunities to build digital solutions that create real impact.
+📌 Always seeking new challenges, continuous learning, and opportunities to build innovative solutions that create real impact.
 
 
 
